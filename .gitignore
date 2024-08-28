@@ -1,0 +1,74 @@
+# Logs
+logs/
+*.log
+
+# Ignore Composer dependencies
+/vendor/
+
+# Node modules (if you are using npm)
+node_modules/
+
+# Environment variables file
+.env
+
+# Cache directories
+cache/
+tmp/
+
+# Ignore compiled files
+*.class
+*.o
+*.out
+*.pyc
+*.pyo
+*.so
+*.dll
+*.exe
+*.obj
+*.exe
+*.bin
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE project files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-specific files
+Desktop.ini
+.DS_Store
+*.swp
+
+# Ignore PHPStorm specific files
+/.idea/
+
+# Ignore environment-specific files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore deployment scripts
+/deploy/
+
+# Ignore PHPUnit result files
+phpunit.result.cache
+
+# Ignore other configuration files
+*.config.php
+
+# Ignore MySQL database dump files
+*.sql
+*.sql.gz
+
+# Ignore Laravel specific files (if applicable)
+bootstrap/cache/
+storage/*.key
+storage/logs/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
