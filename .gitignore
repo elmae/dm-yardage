@@ -59,7 +59,7 @@ Desktop.ini
 phpunit.result.cache
 
 # Ignore other configuration files
-*.config.php
+# *.config.php
 
 # Ignore MySQL database dump files
 *.sql
