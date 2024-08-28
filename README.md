@@ -1,4 +1,4 @@
-# DM Yardage APP  
+# DM Yardage APP personal  
 **Objetivo del proyecto:** Desarrollar una página web que funcione como un golf yardage book, donde los usuarios puedan registrar sus sesiones de juego y analizar sus estadísticas de golf. La página web debe ser fácil de usar, con una interfaz moderna y eficiente.
 
 ### Funcionalidades principales
