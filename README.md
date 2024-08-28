@@ -58,3 +58,5 @@
    - Publicar el sitio web y hacer que esté accesible para los usuarios finales.
    - Establecer un plan de mantenimiento y monitoreo continuo para asegurar el rendimiento y la seguridad del sitio.
 
+5. **Colaboraciones son bienvenidas**
+
